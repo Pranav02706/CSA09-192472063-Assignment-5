@@ -1,0 +1,6 @@
+statement: pass_id=VARCHAR reg_no=VARCHAR name=VARCHAR route=INT amount=DECIMAL 
+prepared: pass_id=VARCHAR reg_no=VARCHAR name=VARCHAR route=INT amount=DECIMAL 
+batch: pass_id=VARCHAR reg_no=VARCHAR name=VARCHAR route=INT amount=DECIMAL 
+Injected duplicate, autocommit=true, SQLState=23000, persisted=500
+Injected duplicate, autocommit=false, SQLState=23000, persisted=0
+PassLoader invalid amount halfway, persisted=0
