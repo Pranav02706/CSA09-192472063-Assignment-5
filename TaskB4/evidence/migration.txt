@@ -1,0 +1,9 @@
+Product: MySQL 8.4.13
+Driver: MySQL Connector/J mysql-connector-j-8.4.0 (Revision: 1c3f5c149e0bfe31c7fbeb24e2d260cd890972c4)
+Table: bus_pass
+Table: student
+Table: users
+Table: wallet
+Line 2: Expected seven fields
+Line 3: Duplicate in input
+Migrated and verified 2 valid rows; 2 validation failures.
