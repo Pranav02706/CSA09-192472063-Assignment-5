@@ -1,0 +1,3 @@
+Injected after debit
+MySQL balances observed in paise: 100000 and 20000
+MySQL balances observed in paise: 50000 and 70000
